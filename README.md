@@ -1,8 +1,7 @@
 # 🧩 Pattern Practice in Python (Jupyter Notebook)
 
 This repository contains Python programs for practicing **pattern printing**, written and executed in a **Jupyter Notebook**.  
-Pattern problems help strengthen **loop logic**, **nested loops**, and **string manipulation** — essential for coding interviews and problem-solving.
-
+Pattern problems help strengthen **loop logic**, **nested loops**, and **string manipulation**.
 ---
 
 ## 🛠️ Tools & Environment
